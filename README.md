@@ -1,5 +1,3 @@
-# bca-test
-
 ## Project setup
 ```
 yarn install
